@@ -37,8 +37,8 @@ Who knows? Let the possibilities unfold.
 
 If you're curious or just want to say hi, reach out via:
 
-- <a href="https://github.com/your-username" target="_blank">GitHub Profile</a>  
-- <a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a>
+- <a href="https://github.com/insooeric" target="_blank">GitHub Profile</a>  
+- <a href="https://www.linkedin.com/in/eric-son-6742b7173/" target="_blank">LinkedIn</a>
 
 ---
 
