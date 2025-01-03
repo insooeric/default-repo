@@ -37,8 +37,8 @@ Who knows? Let the possibilities unfold.
 
 If you're curious or just want to say hi, reach out via:
 
-- [GitHub Profile](https://github.com/your-username){:target="_blank"}  
-- [LinkedIn](https://linkedin.com/in/your-username){:target="_blank"}  
+- <a href="https://github.com/your-username" target="_blank">GitHub Profile</a>  
+- <a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a>
 
 ---
 
