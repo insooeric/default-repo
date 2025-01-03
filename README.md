@@ -37,8 +37,8 @@ Who knows? Let the possibilities unfold.
 
 If you're curious or just want to say hi, reach out via:
 
-- [GitHub Profile](https://github.com/insooeric)  
-- [LinkedIn](https://www.linkedin.com/in/eric-son-6742b7173/)  
+- [GitHub Profile](https://github.com/insooeric){:target="_blank"} 
+- [LinkedIn](https://www.linkedin.com/in/eric-son-6742b7173/){:target="_blank"} 
 
 ---
 
