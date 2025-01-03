@@ -1,4 +1,7 @@
-# 404
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/insooeric/default-repo/refs/heads/main/404_dark.svg">
+    <img alt="Insoo Son's GitHub Default README" src="https://raw.githubusercontent.com/insooeric/default-repo/refs/heads/main/404_dark.svg">
+  </picture>
 Repository Not Found
 
 > **Oops!** You seem to have stumbled upon a mysterious repository.  
