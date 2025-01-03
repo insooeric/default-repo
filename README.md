@@ -45,7 +45,3 @@ If you're curious or just want to say hi, reach out via:
 ## 🎯 Mission
 
 _“All great things begin as undefined.”_
-
----
-
-🌟 Star this repo to follow its journey!
