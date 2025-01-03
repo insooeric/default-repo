@@ -1,4 +1,5 @@
-# 404 - Repository Not Found
+# 404
+Repository Not Found
 
 > **Oops!** You seem to have stumbled upon a mysterious repository.  
 > There's nothing here... yet.  
